@@ -9,7 +9,7 @@ BaseCustomerManager basecustomer = new StarbucksCustomerManager(new MernisServer
 BaseCustomerManager basecustomer2 = new NeroCustomerManager();
 
 
-basecustomer.Save(new Customer { DateOfBirth = new DateTime(1997, 5, 31), Name = "İlhan", LastName = "Söylemez", NationalityId = 24211192484 });
+basecustomer.Save(new Customer { DateOfBirth = new DateTime(1997, 5, 31), Name = "İlhan", LastName = "Söylemez", NationalityId = 242111----- });
 
 
-basecustomer2.Save(new Customer { DateOfBirth = new DateTime(1998, 5, 31), Name = "iİlhan", LastName = "Söylemez", NationalityId = 24211192484 });
+basecustomer2.Save(new Customer { DateOfBirth = new DateTime(1998, 5, 31), Name = "iİlhan", LastName = "Söylemez", NationalityId = 242111----- });
